@@ -1,0 +1,4 @@
+com\example\stickynotes\NoteController.class
+com\example\stickynotes\Note.class
+com\example\stickynotes\StickynotesApplication.class
+com\example\stickynotes\NoteRepository.class
